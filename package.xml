@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtlebot_pure_pursuit</name>
+  <version>0.0.0</version>
+  <description>The turtlebot_pure_pursuit package</description>
+
+  <maintainer email="kdh@es.aau.dk">Karl D. Hansen</maintainer>
+
+  <license>MIT</license>
+
+  <author email="kdh@es.aau.dk">Karl D. Hansen</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>geometry_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>tf2</depend>
+  <depend>tf2_ros</depend>
+
+</package>
